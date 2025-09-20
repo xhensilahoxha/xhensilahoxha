@@ -1,6 +1,6 @@
 # Hi, I’m Xhensila 👋  
 
-I am a **Master’s student in Artificial Intelligence at FAU Erlangen–Nürnberg** with a strong interest in applying AI and machine learning to real-world challenges. I am passionate about moving toward **machine learning engineering** roles in the future.  
+I am a **Master’s student in Artificial Intelligence at FAU Erlangen–Nürnberg** with a strong interest in applying AI and machine learning to real-world challenges.
 
 I enjoy working on projects where I can:
 - Transform raw data into **actionable insights**  
@@ -9,19 +9,31 @@ I enjoy working on projects where I can:
 
 ---
 
-## Skills & Tools
-- **Languages:** Python 
-- **Data Processing & Storage:** pandas, NumPy, SQLAlchemy, SQLite, JSON/CSV/Parquet  
-- **Machine Learning & Modeling:** scikit-learn (classification, regression, evaluation), feature engineering  
-- **Visualization:** matplotlib, seaborn  
-- **Workflow & Tools:** Git/GitHub, VS Code, shell scripting, virtual environments, Jupyter Notebook  
+### Tools & Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![seaborn](https://img.shields.io/badge/Seaborn-268BD2?style=for-the-badge&logoColor=white)
+![matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xhensilahoxha&layout=compact)
 
 ---
+
+### Education
+- **M.Sc. Artificial Intelligence**  
+FAU Erlangen–Nürnberg, Germany    
+
+- **B.Sc. Computer Engineering**   
+Epoka University, Albania   
+
+---   
 
 ## Contact
-- Email: **xh.hoxha02@gmail.com**  
-- LinkedIn: [linkedin.com/in/xhensilahoxha]([https://www.linkedin.com/in/xhensilahoxha/](https://www.linkedin.com/in/xhensila-hoxha-0218b1302/)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xhensila-hoxha-0218b1302/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xh.hoxha02@gmail.com)
 ---
-
-✨ This README is part of my continuous journey toward becoming an **AI & ML engineer** — combining strong foundations in analytics and engineering with a passion for applied machine learning.

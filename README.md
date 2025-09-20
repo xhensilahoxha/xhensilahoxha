@@ -20,7 +20,7 @@ I enjoy working on projects where I can:
 
 ## Contact
 - Email: **xh.hoxha02@gmail.com**  
-- LinkedIn: [linkedin.com/in/xhensilahoxha](https://www.linkedin.com/in/xhensilahoxha/)  
+- LinkedIn: [linkedin.com/in/xhensilahoxha]([https://www.linkedin.com/in/xhensilahoxha/](https://www.linkedin.com/in/xhensila-hoxha-0218b1302/)  
 
 ---
 

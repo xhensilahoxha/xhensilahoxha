@@ -1,4 +1,4 @@
-# Hi, I’m Xhensila 👋  
+# Hi, I’m Xhensila 
 
 I am a **Master’s student in Artificial Intelligence at FAU Erlangen–Nürnberg** with a strong interest in applying AI and machine learning to real-world challenges.
 

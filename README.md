@@ -1,6 +1,7 @@
-# Hi, I’m Xhensila 
+# Hi and welcome :)
+# I’m Xhensila 
 
-I am a **Master’s student in Artificial Intelligence at FAU Erlangen–Nürnberg** with a strong interest in applying AI and machine learning to real-world challenges.
+I am a **Master’s student in Artificial Intelligence at FAU Erlangen–Nürnberg** with a strong interest in applying AI and machine learning to real-world challenges, especially medical challenges.
 
 I enjoy working on projects where I can:
 - Transform raw data into **actionable insights**  
@@ -15,6 +16,7 @@ I enjoy working on projects where I can:
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![seaborn](https://img.shields.io/badge/Seaborn-268BD2?style=for-the-badge&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

@@ -20,9 +20,7 @@ I enjoy working on projects where I can:
 ![seaborn](https://img.shields.io/badge/Seaborn-268BD2?style=for-the-badge&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xhensilahoxha&layout=compact)
+   
 
 ---
 
